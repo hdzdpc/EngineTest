@@ -1,0 +1,6 @@
+<res>
+   <item name="res/ani/SwordsMan.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ani/Swordsman_attack1.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="map" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/map" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>

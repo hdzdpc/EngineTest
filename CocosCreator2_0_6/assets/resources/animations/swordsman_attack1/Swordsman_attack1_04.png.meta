@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "5d28591d-c8ed-44b8-bb53-c9b3a0f4ece0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Swordsman_attack1_04": {
+      "ver": "1.0.3",
+      "uuid": "6afb1fdd-43f4-46b6-b155-baa11cde4a76",
+      "rawTextureUuid": "5d28591d-c8ed-44b8-bb53-c9b3a0f4ece0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -27,
+      "offsetY": 16.5,
+      "trimX": 42,
+      "trimY": 1,
+      "width": 409,
+      "height": 226,
+      "rawWidth": 547,
+      "rawHeight": 261,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
