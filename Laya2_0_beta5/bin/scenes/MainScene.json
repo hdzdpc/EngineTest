@@ -1,0 +1,1 @@
+{"type":"Scene","props":{"width":640,"runtime":"module/main/MainView.ts","height":1136},"compId":2,"child":[{"type":"Script","props":{"mapUI":"@Prefab:prefabs/MainUi.prefab","map":"@Prefab:prefabs/Map.prefab","enabled":true,"runtime":"module/main/ctrl/MainCtrl.ts"},"compId":42}],"loadList":["prefabs/MainUi.prefab","prefabs/Map.prefab"],"loadList3D":[]}
